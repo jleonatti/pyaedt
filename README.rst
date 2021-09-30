@@ -15,7 +15,7 @@ PyAEDT includes functionality for interacting with the following AEDT tools and 
 - Mechanical
 - Nexxim
 - Simplorer
-- EDB Database
+- EDB Database 
 
 What is PyAEDT? 
 ---------------
